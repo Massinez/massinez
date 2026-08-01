@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=m4ss-dev&theme=tokyonight&hide_border=true" alt="m4ss-dev" />
+<a href="https://grademe.fr/app/user/183694e8-a391-48be-87d5-130ea6d4e75e"><img src="https://grademe.fr/api/cards/9af3ec45-45b8-4fd3-87e3-f81c72735792.svg" alt="GradeMe profile card for @m4ss" width="1200" height="420" style="max-width: 100%; height: auto;"></a>
 
 <!--
 **m4ss-dev/m4ss-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
